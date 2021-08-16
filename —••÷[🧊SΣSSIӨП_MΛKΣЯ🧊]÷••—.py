@@ -153,7 +153,7 @@ async def genStr(client, hn: Message):
         await hn.delete()
         chat = hn.chat
         HYPE_ASK_API = await hn.reply_photo(
-        photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+        photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
         caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -195,7 +195,7 @@ async def genStr(client, hn: Message):
             HYPE_API_CHECK = int(HYPE_API.text)
         except Exception:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -221,7 +221,7 @@ async def genStr(client, hn: Message):
         
         api_id = HYPE_API.text
         HYPE_ASK_HASK =  await hn.reply_photo(
-        photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+        photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
         caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -259,7 +259,7 @@ async def genStr(client, hn: Message):
         
         if not len(HYPE_HASH.text) >= 30:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -295,7 +295,7 @@ async def genStr(client, hn: Message):
                 return
             phone = number.text
             HYPE_ASK_Y = await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -345,7 +345,7 @@ or
         except Exception as e:
             await HYPENAME.send_photo(
             chat.id,
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             text=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -384,7 +384,7 @@ or
             code = await morphed.send_code(phone)
         except FloodWait as e:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -409,7 +409,7 @@ or
 
         except ApiIdInvalid:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -436,7 +436,7 @@ or
 
         except PhoneNumberInvalid:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -470,7 +470,7 @@ or
             timeout=300)
         except TimeoutError:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -512,7 +512,7 @@ or
 
         except PhoneCodeInvalid:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -541,7 +541,7 @@ or
 
         except PhoneCodeExpired:
             await hn.reply_photo(
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -570,7 +570,7 @@ or
         except SessionPasswordNeeded:
             try:
                 await hn.reply_photo(
-                photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+                photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
                 caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -598,7 +598,7 @@ or
 
             except TimeoutError:
                 await hn.reply_photo(
-                photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+                photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
                 caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -635,7 +635,7 @@ or
                 await morphed.check_password(HYPE_GOT_CODE)
             except Exception as e:
                 await hn.reply_photo(
-                photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+                photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
                 caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -662,7 +662,7 @@ or
         except Exception as e:
             await HYPENAME.send_photo(
             chat.id,
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             text=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -690,7 +690,7 @@ or
             SESSION_HYPED = await morphed.export_NAMER_MAKERion_string()
             await morphed.send_photo(
             "me",
-            "https://telegra.ph/file/c2604289705277889a05a.jpg",
+            "https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -718,7 +718,7 @@ or
             await morphed.disconnect()
             await HYPENAME.send_photo(
             chat.id,
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -746,7 +746,7 @@ or
         except Exception as e:
             await HYPENAME.send_photo(
             chat.id,
-            photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+            photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
             caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
@@ -775,7 +775,7 @@ or
     except Exception as e:
         await HYPENAME.send_photo(
         chat.id,
-        photo="https://telegra.ph/file/c2604289705277889a05a.jpg",
+        photo="https://telegra.ph/file/375f047a3252dd8f4d6d9.jpg",
         caption=f"""
 **—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 ΉYPΣ VӨID LΛB 🔥🚀
 
