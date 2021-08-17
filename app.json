@@ -1,0 +1,17 @@
+{   "logo": "https://telegra.ph/file/0592f028e92ff2a8e73f0.jpg",
+    "name": "—••÷[🧊SΣSSIӨП_MΛKΣЯ🧊]÷••—",
+    "repository": "https://github.com/HypeVoidSoul/Pyrogram-Session-Maker.git",
+    "stack": "container",
+    "description": "—••÷[🧊SΣSSIӨП_MΛKΣЯ🧊]÷••—",
+    "website": "https://t.me/hypevoids",
+    "env": {
+    "API_ID":{
+    "description":"api_id part of your Telegram API Key From @HVApiBot Only",
+    "required":true},
+    "BOT_TOKEN":{
+    "description":"Put @BotFather Token",
+    "required":true},
+    "API_HASH":{
+    "description":"api_hash part of your Telegram API Key From @HVApiBot Only",
+    "required":true}},
+    "buildpacks": [{"url": "heroku/python"}]}
