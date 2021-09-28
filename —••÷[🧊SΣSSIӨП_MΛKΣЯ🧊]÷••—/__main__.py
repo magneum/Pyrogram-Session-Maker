@@ -128,7 +128,7 @@ MIB=InlineKeyboardMarkup([[
     url="https://t.me/HYPEVOIDLAB"),
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]])
 
 """
@@ -174,7 +174,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
 
 
@@ -214,7 +214,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -241,7 +241,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
 
         HYPE_HASH = await HYPENAME.ask(
@@ -279,7 +279,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -317,7 +317,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
 
             confirm = await HYPENAME.ask(
@@ -365,7 +365,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -402,7 +402,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -429,7 +429,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -456,7 +456,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -490,7 +490,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -534,7 +534,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -562,7 +562,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -591,7 +591,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
                 HYPE_PASSCODE = await HYPENAME.ask(chat.id,f"**÷••>**",timeout=300)
 
@@ -618,7 +618,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
                 return
 
@@ -654,7 +654,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
                 return
 
@@ -681,7 +681,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -710,7 +710,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
 
 
@@ -738,7 +738,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
 
 
@@ -765,7 +765,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
             return
 
@@ -794,7 +794,7 @@ or
     url="https://t.me/HYPEVOIDLAB"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
-    url="https://t.me/HYPEVOIDBOT")
+    url="https://t.me/KrakinzBot")
     ]]))
         return
 

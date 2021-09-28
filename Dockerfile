@@ -15,7 +15,7 @@ RUN python -m venv $VIRTUAL_ENV
 ENV PATH "$VIRTUAL_ENV/bin:$PATH"
 RUN apt-get update && apt-get upgrade -y
 RUN python -m pip install --upgrade pip
-RUN git clone https://github.com/HypeVoidSoul/Pyrogram-Session-Maker.git
+RUN git clone https://github.com/Krakinz/Pyrogram-Session-Maker.git
 RUN cd Pyrogram-Session-Maker
 WORKDIR /Pyrogram-Session-Maker
 RUN pip install -r —••÷[🧊SΣSSIӨП_MΛKΣЯ🧊]÷••—.txt
