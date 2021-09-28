@@ -125,7 +125,7 @@ MIB=InlineKeyboardMarkup([[
     url="https://t.me/Krakns"),
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),
+    url="https://t.me/KrakinzLab"),
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -171,7 +171,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -211,7 +211,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -238,7 +238,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -276,7 +276,7 @@ async def genStr(client, hn: Message):
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -314,7 +314,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -362,7 +362,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -399,7 +399,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -426,7 +426,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -453,7 +453,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -487,7 +487,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -531,7 +531,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -559,7 +559,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -588,7 +588,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -615,7 +615,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -651,7 +651,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -678,7 +678,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -707,7 +707,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -735,7 +735,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -762,7 +762,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
@@ -791,7 +791,7 @@ or
     url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
-    url="https://t.me/HYPEVOIDLAB"),],[
+    url="https://t.me/KrakinzLab"),],[
     InlineKeyboardButton(
     text="⚜️Dev+Git",
     url="https://t.me/KrakinzBot")
