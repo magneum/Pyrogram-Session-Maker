@@ -122,7 +122,7 @@ ZENO = "**—••÷🧊 SΣSSIӨП_MΛKΣЯ 🧊÷••—** `by` 🚀🔥 Ή
 MIB=InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),
+    url="https://t.me/Krakns"),
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),
@@ -168,7 +168,7 @@ async def genStr(client, hn: Message):
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -208,7 +208,7 @@ async def genStr(client, hn: Message):
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -235,7 +235,7 @@ async def genStr(client, hn: Message):
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -273,7 +273,7 @@ async def genStr(client, hn: Message):
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -311,7 +311,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -359,7 +359,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -396,7 +396,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -423,7 +423,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -450,7 +450,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -484,7 +484,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -528,7 +528,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -556,7 +556,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -585,7 +585,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -612,7 +612,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -648,7 +648,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -675,7 +675,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -704,7 +704,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -732,7 +732,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -759,7 +759,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
@@ -788,7 +788,7 @@ or
     reply_markup = InlineKeyboardMarkup([[
     InlineKeyboardButton(
     text="🏷Group",
-    url="https://t.me/HYPEVOIDS"),],[
+    url="https://t.me/Krakns"),],[
     InlineKeyboardButton(
     text="💰Channel",
     url="https://t.me/HYPEVOIDLAB"),],[
